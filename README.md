@@ -21,7 +21,8 @@ follow.
 
 ![html](https://img.shields.io/badge/HTML-2007-3598db?style=flat-square&logo=html5)
 
-![javascript](https://img.shields.io/badge/Javascript-2009-3598db?style=flat-square&logo=javascript) \n
+![javascript](https://img.shields.io/badge/Javascript-2009-3598db?style=flat-square&logo=javascript)
+
 ![javascript](https://img.shields.io/badge/Angular-2015-4db4f9?style=flat-square&logo=angular)
 ![javascript](https://img.shields.io/badge/JQuery-2011-4db4f9?style=flat-square&logo=jquery)
 ![javascript](https://img.shields.io/badge/React-2018-4db4f9?style=flat-square&logo=react)
