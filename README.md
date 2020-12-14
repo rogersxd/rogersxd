@@ -28,7 +28,7 @@ follow.
 ![javascript](https://img.shields.io/badge/React-2018-4db4f9?style=flat-square&logo=react)
 ![javascript](https://img.shields.io/badge/React--Native-2018-4db4f9?style=flat-square&logo=react)
 
-![css3](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
+![scss](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
 
 ![sass](https://img.shields.io/badge/SaSS-2017-c350f4?style=flat-square&logo=sass)
 ![less](https://img.shields.io/badge/LeSS-2018-c350f4?style=flat-square&logo=less)
