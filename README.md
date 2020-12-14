@@ -15,8 +15,9 @@ follow.
 ### Languages and Tools
 
 ![php](https://img.shields.io/badge/PHP-2009-3598db?style=flat-square&logo=php)
-![laravel](https://img.shields.io/badge/Laravel-2014-blue?style=flat-square&logo=laravel)
 ![codeigniter](https://img.shields.io/badge/Codeigniter-2011-blue?style=flat-square&logo=codeigniter)
+![java](https://img.shields.io/badge/android-2012-3598db?style=flat-square&logo=android)
+![laravel](https://img.shields.io/badge/Laravel-2014-blue?style=flat-square&logo=laravel)
 
 ![html](https://img.shields.io/badge/HTML-2007-3598db?style=flat-square&logo=html5)
 
