@@ -5,10 +5,9 @@
 
 ```html
 
-With 10 years of experience and having already acted and participated in
-development of products and solutions, we already operate in several
-existing segments, allowed us to work and learn the technologies to
-follow.
+With 10 years of experience and having already acted and participated in 
+development of products and solutions, we already operate in several existing segments, 
+allowed us to work and learn the technologies to follow.
 
 ```
 
