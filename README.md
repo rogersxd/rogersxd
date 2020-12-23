@@ -30,8 +30,8 @@ allowed us to work and learn the technologies to follow.
 ![scss](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
 ![sass](https://img.shields.io/badge/SaSS-2017-c350f4?style=flat-square&logo=sass)
 
-![java](https://img.shields.io/badge/android-2009-3598db?style=flat-square&logo=java)
-![java](https://img.shields.io/badge/android-2012-3598db?style=flat-square&logo=android)
+![java](https://img.shields.io/badge/java-2009-3598db?style=flat-square&logo=java)
+![android](https://img.shields.io/badge/android-2012-3598db?style=flat-square&logo=android)
 
 ![redis](https://img.shields.io/badge/redis-2016-d82c20?style=flat-square&logo=redis)
 ![redis](https://img.shields.io/badge/mysql-2008-d82c20?style=flat-square&logo=mysql)
