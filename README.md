@@ -5,9 +5,7 @@
 
 ```html
 
-With 10 years of experience and having already acted and participated in 
-development of products and solutions, we already operate in several existing segments, 
-allowed us to work and learn the technologies to follow.
+I have been working for over 10 years with software development, from simple to complex. Today I have focused my studies on application development using Artificial Intelligence.
 
 ```
 
