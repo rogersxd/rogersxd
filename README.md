@@ -5,7 +5,8 @@
 
 ```html
 
-I have been working for over 10 years with software development, from simple to complex. Today I have focused my studies on application development using Artificial Intelligence.
+I have been working for over 10 years with software development, from simple to complex. 
+Today I have focused my studies on application development using Artificial Intelligence.
 
 ```
 
